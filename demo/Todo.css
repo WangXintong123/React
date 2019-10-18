@@ -1,0 +1,27 @@
+*{
+    font-size:20px;
+}
+
+.top{
+    width:100%;
+    margin-top:20px ;
+}
+.top input{
+    width:250px;
+    height:50px;
+}
+.conten{
+    margin-top:30px;
+    width:100%;
+}
+.conten ul{
+    list-style-type: none;
+}
+.num{
+    float:right;
+    margin-right: 1400px;
+    font-size: 25px;
+    color: coral;
+    font-weight: 500;
+    margin-top: -45px;
+}
