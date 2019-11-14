@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAOA,MACI,wBACJ","file":"main.7f506959.chunk.css","sourcesContent":["/* .am-carousel-wrap-dot > span {\r\n    display: block;\r\n    width: 20px;\r\n    height: 8px;\r\n    margin: 0 3px;\r\n    background: #3fcccb;\r\n} */\r\n.body{\r\n    background-color: rgb(238, 240, 248);\r\n}"]}
